@@ -1,5 +1,3 @@
-![MuscleSync Banner](banner.png)
-
 <h1 align="center">MuscleSync</h1>
 <p align="center">
   <em>Real-time EMG Muscle Signal to Keyboard Controller via Arduino</em>
